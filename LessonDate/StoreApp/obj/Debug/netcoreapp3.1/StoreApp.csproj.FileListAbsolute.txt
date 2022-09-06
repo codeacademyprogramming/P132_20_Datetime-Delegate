@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\20. 06-09-2022\LessonDate\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.genruntimeconfig.cache
